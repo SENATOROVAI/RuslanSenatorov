@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 # My channel: https://youtube.com/SENATOROV
 
 
-(https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](![image](https://user-images.githubusercontent.com/55090151/208199945-3f5e7268-e65a-49c1-8fac-a17afe40b087.png))
