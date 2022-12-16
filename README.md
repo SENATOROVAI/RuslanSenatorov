@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 # My channel: https://youtube.com/SENATOROV
 
 
-![This is an image](![image](https://user-images.githubusercontent.com/55090151/208199945-3f5e7268-e65a-49c1-8fac-a17afe40b087.png))
+![This is an image](https://user-images.githubusercontent.com/55090151/208199945-3f5e7268-e65a-49c1-8fac-a17afe40b087.png)
