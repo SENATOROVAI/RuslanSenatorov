@@ -1,7 +1,7 @@
 # I'm SENATOROV 👋
 
 ```
-# sudo rm -rf /*
+sudo rm -rf /*
 ```
 💬
 <!--
