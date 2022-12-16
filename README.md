@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My channel: https://youtube.com/SENATOROV
+# My channel: https://youtube.com/SENATOROV
 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
