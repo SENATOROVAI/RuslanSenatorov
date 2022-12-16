@@ -1,10 +1,7 @@
 # I'm SENATOROV 👋
 
 ```
-sudo rm -rf /*
-
-print("Hello, world!")
-    
+sudo rm -rf /* 
 ```
 💬
 <!--
