@@ -1,6 +1,6 @@
 # Ruslan Senatorov - Artificial Intelligence Researcher
 
-![This is an image](https://user-images.githubusercontent.com/55090151/208199945-3f5e7268-e65a-49c1-8fac-a17afe40b087.png)
+<!-- ![This is an image](https://user-images.githubusercontent.com/55090151/208199945-3f5e7268-e65a-49c1-8fac-a17afe40b087.png) -->
 
 I am Ruslan Senatorov, an Artificial Intelligence Researcher with a passion for developing innovative solutions that leverage machine learning algorithms to solve real-world problems. 
 
