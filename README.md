@@ -69,9 +69,12 @@ sudo rm -rf /*
   
 </p>
 
-
-  
-    (https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice)
+<p align="center">
+  <a href="https://github.com/ruslansenatorov">
+    <img src="https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice">
+  </a>
+</p>
+ 
 
 
 
