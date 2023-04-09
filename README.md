@@ -59,8 +59,6 @@ sudo rm -rf /*
 
 <!-- custom -->
 
-<a href="https://github.com/ruslansenatorov#Senatorov"><img alt="RuslanSenatorov's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=RuslanSenatorov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 <p align="center">
     <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=ruslansenatorov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="ruslansenatorov's github stats" /></a>
   <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslansenatorov&theme=tokyonight" alt="ruslansenatorov's github stats" /></a>
@@ -78,10 +76,10 @@ sudo rm -rf /*
 
 
 
+<a href="https://github.com/ruslansenatorov#Senatorov"><img alt="RuslanSenatorov's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=RuslanSenatorov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
-  
-  
+ 
 <a href="https://github.com/ruslansenatorov#Senatorov" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
