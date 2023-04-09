@@ -1,8 +1,5 @@
 [![Github](https://img.shields.io/github/followers/RuslanSenatorov?label=Follow&style=social)](https://github.com/RuslanSenatorov)
   
-  <a href="https://github.com/ruslansenatorov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslansenatorov&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="SENATOROV" />
-</a> 
-
 <p align="center">
     <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=ruslansenatorov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="ruslansenatorov's github stats" /></a>
     <a href="https://github.com/ruslansenatorov#Senatorov">
