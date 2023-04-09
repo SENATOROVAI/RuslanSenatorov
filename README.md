@@ -70,12 +70,12 @@ sudo rm -rf /*
 <!-- custom -->
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslansenatorov&theme=tokyonight" alt="ruslansenatorov's github stats" /></a>
+  <a href=""><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslansenatorov&theme=tokyonight" alt="ruslansenatorov's github stats" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=ruslansenatorov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="ruslansenatorov's github stats" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href=""><img align="center" src="https://github-readme-stats.zohan.tech/api?username=ruslansenatorov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="ruslansenatorov's github stats" /></a>
+  <a href="">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ruslansenatorov's streak" src="https://streak-stats.demolab.com/?user=ruslansenatorov&theme=onedark&hide_border=true"/>
   </a>
 </p>
@@ -83,13 +83,13 @@ sudo rm -rf /*
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ruslansenatorov&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href=""><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ruslansenatorov&layout=compact&hide_border=true&theme=tokyonight" /></a>
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/ruslansenatorov">
     <img src="https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice">
   </a>
 </p>
