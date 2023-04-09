@@ -47,17 +47,10 @@ sudo rm -rf /*
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/RuslanSenatorov/github-readme-stats -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanSenatorov&show_icons=true&theme=transparent)
-
-  <a href="https://github.com/RuslanSenatorov/github-readme-stats"><img alt="RuslanSenatorov's Github Stats" src="https://RuslanSenatorov-github-readme-stats.vercel.app/api/?username=RuslanSenatorov&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/RuslanSenatorov/github-readme-stats"><img alt="RuslanSenatorov's Top Languages" src="https://RuslanSenatorov-github-readme-stats.vercel.app/api/top-langs/?username=RuslanSenatorov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslansenatorov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslansenatorov&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+ 
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
