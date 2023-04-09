@@ -72,14 +72,14 @@ sudo rm -rf /*
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+
 
 <p align="center">
   <a href="https://github.com/ruslansenatorov#Senatorov">
     <img src="https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice">
   </a>
 </p>
-
+<p align="center">
 <a href="https://github.com/ruslansenatorov#Senatorov" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
