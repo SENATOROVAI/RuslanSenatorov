@@ -1,9 +1,9 @@
 # Ruslan Senatorov - AI Researcher
+[![Github](https://img.shields.io/github/followers/RuslanSenatorov?label=Follow&style=social)](https://github.com/RuslanSenatorov)
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslansenatorov&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="Anurag's github stats" />
 </a> 
 
-[![Github](https://img.shields.io/github/followers/RuslanSenatorov?label=Follow&style=social)](https://github.com/RuslanSenatorov)
 
 <!-- ![This is an image](https://user-images.githubusercontent.com/55090151/208199945-3f5e7268-e65a-49c1-8fac-a17afe40b087.png) -->
 
