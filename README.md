@@ -45,15 +45,14 @@ sudo rm -rf /*
     <a href="https://github.com/RuslanSenatorov/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RuslanSenatorov's streak" src="https://streak-stats.demolab.com/?user=RuslanSenatorov&theme=monokai-metallian&hide_border=true"/>
     </a>
-  
+
+  </p>
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslansenatorov&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="Anurag's github stats" />
 </a> 
-  </p>
-
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuslanSenatorov&theme=solarized_dark)
-
+</div>
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RuslanSenatorov's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=RuslanSenatorov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
