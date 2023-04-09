@@ -58,9 +58,9 @@ sudo rm -rf /*
 
 
 <!-- custom -->
-
+<p align="center">
  <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslansenatorov&theme=tokyonight" alt="ruslansenatorov's github stats" /></a>
-
+</p>
 <p align="center">
     <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=ruslansenatorov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="ruslansenatorov's github stats" /></a>
     <a href="https://github.com/ruslansenatorov#Senatorov">
