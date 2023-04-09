@@ -57,23 +57,15 @@ sudo rm -rf /*
 
 
 
-
-
-<!-- custom -->
-<p align="center">
- <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslansenatorov&theme=tokyonight" alt="ruslansenatorov's github stats" /></a>
-</p>
-
-
 <p align="center">
   <a href="https://github.com/ruslansenatorov">
     <img src="https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice">
   </a>
 </p>
- 
 
-
-
+<p align="center">
+ <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslansenatorov&theme=tokyonight" alt="ruslansenatorov's github stats" /></a>
+</p>
 
 <a href="https://github.com/ruslansenatorov#Senatorov"><img alt="RuslanSenatorov's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=RuslanSenatorov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
