@@ -70,8 +70,8 @@ sudo rm -rf /*
 </p>
 
 
-   
-    <img src="https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice">
+  
+    https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice
 
 
 
