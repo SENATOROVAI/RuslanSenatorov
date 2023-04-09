@@ -55,6 +55,8 @@ sudo rm -rf /*
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslansenatorov&layout=full&theme=black&hide_border=true" />
 </a> |
 | ------------- | ------------- |
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslansenatorov&show_icons=true&theme=radical)
  
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
