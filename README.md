@@ -3,6 +3,14 @@
   <a href="https://github.com/ruslansenatorov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslansenatorov&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="SENATOROV" />
 </a> 
 
+<p align="center">
+    <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=ruslansenatorov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="ruslansenatorov's github stats" /></a>
+    <a href="https://github.com/ruslansenatorov#Senatorov">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ruslansenatorov's streak" src="https://streak-stats.demolab.com/?user=ruslansenatorov&theme=onedark&hide_border=true"/>
+  </a>
+  
+</p>
+
 
 <!-- ![This is an image](https://user-images.githubusercontent.com/55090151/208199945-3f5e7268-e65a-49c1-8fac-a17afe40b087.png) -->
 
@@ -61,13 +69,7 @@ sudo rm -rf /*
 <p align="center">
  <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslansenatorov&theme=tokyonight" alt="ruslansenatorov's github stats" /></a>
 </p>
-<p align="center">
-    <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=ruslansenatorov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="ruslansenatorov's github stats" /></a>
-    <a href="https://github.com/ruslansenatorov#Senatorov">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ruslansenatorov's streak" src="https://streak-stats.demolab.com/?user=ruslansenatorov&theme=onedark&hide_border=true"/>
-  </a>
-  
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ruslansenatorov">
