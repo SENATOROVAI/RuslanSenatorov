@@ -68,17 +68,14 @@ sudo rm -rf /*
   <a href="https://github.com/ruslansenatorov#Senatorov">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ruslansenatorov's streak" src="https://streak-stats.demolab.com/?user=ruslansenatorov&theme=onedark&hide_border=true"/>
   </a>
+    <a href="https://github.com/ruslansenatorov#Senatorov">
+    <img src="https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice">
+  </a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-
-<p align="center">
-  <a href="https://github.com/ruslansenatorov#Senatorov">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice">
-  </a>
-</p>
 <p align="center">
 <a href="https://github.com/ruslansenatorov#Senatorov" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
