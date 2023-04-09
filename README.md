@@ -44,7 +44,7 @@ Here are some of the projects that I have worked on:
 sudo rm -rf /* 
 ```
 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+## 📊 Github Stats and Activity
   
   
 
