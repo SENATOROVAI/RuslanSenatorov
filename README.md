@@ -47,20 +47,10 @@ sudo rm -rf /*
   
 
   <!-- GitHub Readme Streak Stats - https://github.com/RuslanSenatorov/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/RuslanSenatorov#Senatorov">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RuslanSenatorov's streak" src="https://streak-stats.demolab.com/?user=RuslanSenatorov&theme=monokai-metallian&hide_border=true"/>
-    </a>
-
-  </p>
-
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ruslansenatorov#Senatorov"><img alt="RuslanSenatorov's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=RuslanSenatorov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuslanSenatorov&theme=solarized_dark)
-
 
 
 
