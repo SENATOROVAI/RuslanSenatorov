@@ -35,3 +35,12 @@ Here are some of the projects that I have worked on:
 ```
 sudo rm -rf /* 
 ```
+
+### 📈 Статистика GitHub
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RuslanSenatorov&theme=dark)](https://git.io/streak-stats)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuslanSenatorov&theme=solarized_dark)
+
+<br>
