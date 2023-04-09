@@ -68,12 +68,12 @@ sudo rm -rf /*
   </a>
   
 </p>
- <p align="center">
+
 
     <a href="https://github.com/ruslansenatorov#Senatorov">
     <img src="https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice">
   </a>
-</p>
+test
 
 
 
