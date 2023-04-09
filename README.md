@@ -1,14 +1,6 @@
 [![Github](https://img.shields.io/github/followers/RuslanSenatorov?label=Follow&style=social)](https://github.com/RuslanSenatorov)
   
 <p align="center">
-    <a href="https://github.com/ruslansenatorov#Senatorov"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=ruslansenatorov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="ruslansenatorov's github stats" /></a>
-    <a href="https://github.com/ruslansenatorov#Senatorov">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ruslansenatorov's streak" src="https://streak-stats.demolab.com/?user=ruslansenatorov&theme=onedark&hide_border=true"/>
-  </a>
-  
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruslansenatorov&show_icons=true&theme=onedark" alt="Your GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruslansenatorov&theme=onedark" alt="Your GitHub Streak" />
 </p>
