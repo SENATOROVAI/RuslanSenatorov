@@ -8,6 +8,11 @@
   
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruslansenatorov&show_icons=true&theme=onedark" alt="Your GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruslansenatorov&theme=onedark" alt="Your GitHub Streak" />
+</p>
+
 
 <!-- ![This is an image](https://user-images.githubusercontent.com/55090151/208199945-3f5e7268-e65a-49c1-8fac-a17afe40b087.png) -->
 
