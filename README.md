@@ -71,7 +71,7 @@ sudo rm -rf /*
 
 
   
-    https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice
+    (https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice)
 
 
 
