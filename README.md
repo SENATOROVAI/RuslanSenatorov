@@ -70,20 +70,20 @@ sudo rm -rf /*
 <!-- custom -->
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zo-Bro-23&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslansenatorov&theme=tokyonight" alt="ruslansenatorov's github stats" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=ruslansenatorov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="ruslansenatorov's github stats" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zo-Bro-23's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ruslansenatorov's streak" src="https://streak-stats.demolab.com/?user=ruslansenatorov&theme=onedark&hide_border=true"/>
   </a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ruslansenatorov&layout=compact&hide_border=true&theme=tokyonight" /></a>
 <a href="https://wakatime.com/@ZoBro23"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
 </p>
 
@@ -91,14 +91,14 @@ sudo rm -rf /*
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zo-Bro-23&theme=apprentice">
+    <img src="https://github-profile-trophy.vercel.app/?username=ruslansenatorov&theme=apprentice">
   </a>
 </p>
 
-<a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+<a href="https://github.com/ruslansenatorov#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=ruslansenatorov&repo=ruslansenatorov&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
-<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<a href="https://github.com/ruslansenatorov#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=ruslansenatorov&repo=ruslansenatorov&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
